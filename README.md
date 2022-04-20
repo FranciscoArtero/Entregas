@@ -30,7 +30,7 @@ Integrantes
   Modulo 1
   </h2>  
   
-  <a href="https://gast9.github.io/Entregas/"> Link a entrega </a>
+  <a href="https://franciscoartero.github.io/Entregas/"> Link a entrega </a>
  
   
 </body>
