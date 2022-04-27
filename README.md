@@ -34,6 +34,3 @@ Integrantes
   <a href="https://franciscoartero.github.io/Entregas/"> Link a entrega </a>
  
   
-</body>
-
-</html>
