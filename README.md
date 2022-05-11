@@ -27,9 +27,6 @@ Integrantes
 <a href="http://fing.uncu.edu.ar"> Link a la facultad de ingenieria </a>
 <hr>
   
-  <h2>
-  Modulo 1
-  </h2>  
   
   <a href=" <h2>
   Modulo 1
