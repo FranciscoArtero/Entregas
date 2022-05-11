@@ -28,11 +28,11 @@ Integrantes
 <hr>
   
   
-  <a href=" <h2>
+  <h2>
   Modulo 1
   </h2>  
   
   <a href="https://github.com/FranciscoArtero/TP1-2022"> Link a entrega </a>
- "> Link a entrega </a>
+ 
  
   
