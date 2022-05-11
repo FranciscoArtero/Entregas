@@ -31,6 +31,11 @@ Integrantes
   Modulo 1
   </h2>  
   
+  <a href=" <h2>
+  Modulo 1
+  </h2>  
+  
   <a href="https://franciscoartero.github.io/Entregas/"> Link a entrega </a>
+ "> Link a entrega </a>
  
   
