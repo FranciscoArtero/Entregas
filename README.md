@@ -2,9 +2,9 @@
 <html>
 
 <head>
+   
+   <link rel="shortcut icon"type="image/png" href="C:\modernas\unc.png">
   
-  
-   <link rel="icon"type="image/png" href="C:\modernas\unc.png">
 <h1>
 FFM
   
