@@ -19,8 +19,11 @@ Integrantes
 </h1>
 
 <ul> Marcos Ander Egg </ul> <p>
+ <ul> mf.mg.anderegg@gmail.com </ul> <p>
 <ul> Francisco Artero </ul> <p>
+  <ul> f.r.artero1234@gmail.com </ul> <p>
 <ul> Franco Consorte </ul> <p>
+  <ul> franco.consorte55@gmail.com </ul> <p>
 <hr>
 
   Esta es nuestra facultad <p>
