@@ -36,8 +36,8 @@ Integrantes
  
   
  
-  <h3>
+  <h2>
   Modulo 2
-  </h3>  
+  </h2>  
  
    <a href="https://github.com/FranciscoArtero/TP2-2022"> Link a entrega </a>
