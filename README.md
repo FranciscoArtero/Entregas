@@ -19,7 +19,7 @@ Integrantes
 </h1>
 
 <ul> Marcos Ander Egg </ul> <p>
-<ul> Fran Artero </ul> <p>
+<ul> Francisco Artero </ul> <p>
 <ul> Franco Consorte </ul> <p>
 <hr>
 
@@ -36,6 +36,8 @@ Integrantes
  
   
  
- 
+  <h3>
+  Modulo 2
+  </h3>  
  
   
