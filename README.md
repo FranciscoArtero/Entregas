@@ -2,7 +2,7 @@
 <html>
 
 <head>
-   <link rel="shortcut icon" href="C:\modernas\UNC.png">
+   <link rel="shortcut icon" href="C:\modernas\favicon.png">
 
   
 <h1>
